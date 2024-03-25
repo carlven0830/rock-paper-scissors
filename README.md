@@ -123,8 +123,6 @@ Javascript
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Tan Carlven](https://carlven-rock-paper-scissors.netlify.app/))
 - Frontend Mentor - [@carlven0830](https://www.frontendmentor.io/profile/carlven0830)
 - Twitter - [@carlven30](https://twitter.com/carlven30)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
