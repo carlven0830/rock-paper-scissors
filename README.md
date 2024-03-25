@@ -57,10 +57,6 @@ Users should be able to:
   <img src="images/icon-paper.svg" alt="Paper" />
   )} {userOption === "scissor" && (
   <img src="images/icon-scissor.svg" alt="Scissors" />
-  )} {userOption === "lizard" && (
-  <img src="images/icon-lizard.svg" alt="Lizard" />
-  )} {userOption === "spock" && (
-  <img src="images/icon-spock.svg" alt="Spock" />
   )}
 </div>
 ```
@@ -88,7 +84,7 @@ Users should be able to:
 
 ```js
 // Define a unique prefix for this app's local storage
-const localStoragePrefix = "rockPaperScissorsBonus_";
+const localStoragePrefix = "rockPaperScissors_";
 
 // Initialize score state with the value retrieved from local storage or default to 0
 const [score, setScore] = useState(
